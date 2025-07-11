@@ -6,7 +6,6 @@ Designed with a fresh pastel theme for a smooth user experience.
 
 
 ## ✨ Features
-
 - ✅ Add new tasks
 - ✏️ Mark tasks as completed
 - ❌ Delete tasks
