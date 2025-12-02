@@ -14,15 +14,15 @@ Designed with a fresh pastel theme for a smooth user experience.
 
 ---
 
-## 📂 Tech Stack
+##  Tech Stack
 
 - HTML5
 - CSS3 (Flexbox, gradients, custom styles)
 - JavaScript (DOM manipulation)
 
 ---
-## 🔗 Live Demo
-👉 [View App](https://nikita0x01.github.io/TODO-app/)
+##  Live Demo
+ [View App](https://nikita0x01.github.io/TODO-app/)
 
 ---
 
